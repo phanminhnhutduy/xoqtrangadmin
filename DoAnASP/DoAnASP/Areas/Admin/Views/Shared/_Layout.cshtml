@@ -1,0 +1,162 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Collective Admin Panel a Flat Bootstrap Responsive Website Template | Home :: W3Layouts</title>
+
+    <!-- Template CSS -->
+    <link rel="stylesheet" href="~/Admin/css/style-starter.css">
+
+    <!-- google fonts -->
+    <link href="//fonts.googleapis.com/css?family=Nunito:300,400,600,700,800,900&amp;display=swap" rel="stylesheet">
+    <style type="text/css">
+/* Chart.js */
+keyframes chartjs-render-animation{from{opacity:.99}to{opacity:1}}.chartjs-render-monitor{animation:chartjs-render-animation 1ms}.chartjs-size-monitor,.chartjs-size-monitor-expand,.chartjs-size-monitor-shrink{position:absolute;direction:ltr;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1}.chartjs-size-monitor-expand>div{position:absolute;width:1000000px;height:1000000px;left:0;top:0}.chartjs-size-monitor-shrink>div{position:absolute;width:200%;height:200%;left:0;top:0}</style>
+</head>
+<body class="sidebar-menu-collapsed noscroll" style="">
+    <div class="se-pre-con" style="display: none;"></div>
+    <section>
+        <!-- sidebar menu start -->
+        <div class="sidebar-menu sticky-sidebar-menu">
+
+            <!-- logo start -->
+            <div class="logo">
+                <h1><a href="index.html">Collective</a></h1>
+            </div>
+
+
+
+            <div class="logo-icon text-center">
+
+                <a href="index.html" title="logo">
+                    <img src="~/Admin/images/logo.png" />
+                    <a />
+            </div>
+
+
+            <!-- //logo end
+
+        <div class="sidebar-menu-inner">
+
+            <!-- sidebar nav start -->
+            @await Html.PartialAsync("_Menu");
+            <!-- //sidebar nav end -->
+            <!-- toggle button start -->
+            <a class="toggle-btn">
+                <i class="fa fa-angle-double-left menu-collapsed__left"><span>Collapse Sidebar</span></i>
+                <i class="fa fa-angle-double-right menu-collapsed__right"></i>
+            </a>
+            <!-- //toggle button end -->
+        </div>
+
+        <!-- //sidebar menu end -->
+        <!-- header-starts -->
+        <div class="header sticky-header">
+
+            <!-- notification menu start -->
+            @await Html.PartialAsync("_Header");
+            <!--notification menu end -->
+        </div>
+        <!-- //header-ends -->
+        <!-- main content start -->
+        <br><br>
+        <div class="main-content">
+            <br>
+            <!-- content -->
+            @RenderBody()
+            <!-- //content -->
+        </div>
+        <!-- main content end-->
+    </section>
+    
+    <!-- move top -->
+    <button onclick="topFunction()" id="movetop" class="bg-primary" title="Go to top">
+        <span class="fa fa-angle-up"></span>
+    </button>
+    <script>
+        // When the user scrolls down 20px from the top of the document, show the button
+        window.onscroll = function () {
+            scrollFunction()
+        };
+
+        function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                document.getElementById("movetop").style.display = "block";
+            } else {
+                document.getElementById("movetop").style.display = "none";
+            }
+        }
+
+        // When the user clicks on the button, scroll to the top of the document
+        function topFunction() {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        }
+    </script>
+    <!-- /move top -->
+
+
+    <script src="~/Admin/js/jquery-3.3.1.min.js"></script>
+    <script src="~/Admin/js/jquery-1.10.2.min.js"></script>
+
+    <!-- chart js -->
+    <script src="~/Admin/js/Chart.min.js"></script>
+    <script src="~/Admin/js/utils.js"></script>
+    <!-- //chart js -->
+    <!-- Different scripts of charts.  Ex.Barchart, Linechart -->
+    <script src="~/Admin/js/bar.js"></script>
+    <script src="~/Admin/js/linechart.js"></script>
+    <!-- //Different scripts of charts.  Ex.Barchart, Linechart -->
+
+
+    <script src="~/Admin/js/jquery.nicescroll.js"></script>
+    <script src="~/Admin/js/scripts.js"></script>
+
+    <!-- close script -->
+    <script>
+        var closebtns = document.getElementsByClassName("close-grid");
+        var i;
+
+        for (i = 0; i < closebtns.length; i++) {
+            closebtns[i].addEventListener("click", function () {
+                this.parentElement.style.display = 'none';
+            });
+        }
+    </script>
+    <!-- //close script -->
+    <!-- disable body scroll when navbar is in active -->
+    <script>
+        $(function () {
+            $('.sidebar-menu-collapsed').click(function () {
+                $('body').toggleClass('noscroll');
+            })
+        });
+    </script>
+    <!-- disable body scroll when navbar is in active -->
+    <!-- loading-gif Js -->
+    <script src="~/Admin/js/modernizr.js"></script>
+    <script>
+        $(window).load(function () {
+            // Animate loader off screen
+            $(".se-pre-con").fadeOut("slow");;
+        });
+    </script>
+    <!--// loading-gif Js -->
+    <!-- Bootstrap Core JavaScript -->
+    <script src="~/Admin/js/bootstrap.min.js"></script>
+
+
+
+
+</body>
+    @await Html.PartialAsync("_Footer");
+    <script src="https://wrappixel.com/demos/free-admin-templates/all-lite-landing-pages/assets/plugins/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap tether Core JavaScript -->
+    <script src="https://wrappixel.com/demos/free-admin-templates/all-lite-landing-pages/assets/plugins/popper.~/Admin/~/Admin/~/Admin/js/dist/umd/popper.min.js"></script>
+    <script src="https://wrappixel.com/demos/free-admin-templates/all-lite-landing-pages/assets/plugins/bootstrap/dist/~/Admin/~/Admin/~/Admin/js/bootstrap.min.js"></script>
+    @RenderSection("Scripts", required: false)
+
+</html>

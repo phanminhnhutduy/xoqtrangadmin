@@ -1,0 +1,48 @@
+﻿@model IEnumerable<DoAnASP.Areas.Admin.Models.Loai>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a href="../Loais/Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TieuDe)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NgayTao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IDNguoiTao)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TieuDe)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayTao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IDNguoiTao)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IDLoai">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IDLoai">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IDLoai">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

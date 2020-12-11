@@ -1,0 +1,413 @@
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.csprojAssemblyReference.cache
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.AssemblyInfoInputs.cache
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.AssemblyInfo.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.csproj.CoreCompileInputs.cache
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.MvcApplicationPartsAssemblyInfo.cache
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.RazorAssemblyInfo.cache
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.RazorAssemblyInfo.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\appsettings.json
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\DoAnASP.exe
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\DoAnASP.deps.json
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\DoAnASP.runtimeconfig.json
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\DoAnASP.runtimeconfig.dev.json
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\DoAnASP.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\DoAnASP.pdb
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\DoAnASP.Views.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\DoAnASP.Views.pdb
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\staticwebassets\DoAnASP.StaticWebAssets.Manifest.cache
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\staticwebassets\DoAnASP.StaticWebAssets.xml
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\scopedcss\bundle\DoAnASP.styles.css
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.TagHelpers.input.cache
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.TagHelpers.output.cache
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.RazorCoreGenerate.cache
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Footer.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Header.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Contact\Index.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Home\Index.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Shared\Error.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Shared\_Footer.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Shared\_Header.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Shared\_Layout.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Shared\_Loai.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Single\Index.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\_ViewImports.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\_ViewStart.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.RazorTargetAssemblyInfo.cache
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.RazorTargetAssemblyInfo.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.Views.pdb
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.csproj.CopyComplete
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.pdb
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.genruntimeconfig.cache
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\BinhLuans\Create.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\BinhLuans\Delete.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\BinhLuans\Details.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\BinhLuans\Edit.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\BinhLuans\Index.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Create.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Delete.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Details.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Edit.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Index.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TaiKhoans\Create.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TaiKhoans\Delete.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TaiKhoans\Details.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TaiKhoans\Edit.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TaiKhoans\Index.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CauHois\Create.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CauHois\Delete.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CauHois\Details.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CauHois\Edit.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CauHois\Index.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blogs\Create.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blogs\Delete.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blogs\Details.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blogs\Edit.cshtml.g.cs
+C:\HOCTAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blogs\Index.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\appsettings.json
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\DoAnASP.exe
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\DoAnASP.deps.json
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\DoAnASP.runtimeconfig.json
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\DoAnASP.runtimeconfig.dev.json
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\DoAnASP.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\DoAnASP.pdb
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\DoAnASP.Views.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\DoAnASP.Views.pdb
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.csprojAssemblyReference.cache
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.AssemblyInfoInputs.cache
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.AssemblyInfo.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.csproj.CoreCompileInputs.cache
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.MvcApplicationPartsAssemblyInfo.cache
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.RazorAssemblyInfo.cache
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.RazorAssemblyInfo.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\staticwebassets\DoAnASP.StaticWebAssets.Manifest.cache
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\staticwebassets\DoAnASP.StaticWebAssets.xml
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\scopedcss\bundle\DoAnASP.styles.css
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.TagHelpers.input.cache
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.TagHelpers.output.cache
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.RazorCoreGenerate.cache
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Footer.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Contact\Index.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Home\Index.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Shared\Error.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Shared\_Footer.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Shared\_Header.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Shared\_Layout.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Shared\_Loai.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Single\Index.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\_ViewImports.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\_ViewStart.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.RazorTargetAssemblyInfo.cache
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.RazorTargetAssemblyInfo.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.Views.pdb
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.csproj.CopyComplete
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.dll
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.pdb
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\DoAnASP.genruntimeconfig.cache
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Create.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Delete.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Details.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Edit.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Loais\Index.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blogs\Create.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blogs\Delete.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blogs\Details.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blogs\Edit.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blogs\Index.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\BinhLuans\Create.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\BinhLuans\Delete.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\BinhLuans\Details.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\BinhLuans\Edit.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\BinhLuans\Index.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CauHois\Create.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CauHois\Delete.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CauHois\Details.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CauHois\Edit.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\CauHois\Index.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Menu.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Header.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TaiKhoans\Create.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TaiKhoans\Delete.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TaiKhoans\Details.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TaiKhoans\Edit.cshtml.g.cs
+C:\HOC TAP\ASP\DoAnASP\DoAnASP\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TaiKhoans\Index.cshtml.g.cs

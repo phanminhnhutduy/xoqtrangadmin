@@ -1,0 +1,82 @@
+﻿@model IEnumerable<DoAnASP.Areas.Admin.Models.Blog>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create" >Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TieuDe)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HinhAnh)
+            </th>
+         
+            <th>
+                @Html.DisplayNameFor(model => model.loai)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IDNguoiTao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NgayTao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NgayDuyet)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.View)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IDNguoiDuyet)
+            </th>
+          
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TieuDe)
+            </td>
+            <td>
+               <img src="~/blog/@Html.DisplayFor(modelItem => item.HinhAnh)"style="width:50px;height:50px"/>
+            </td>
+         
+            <td>
+                @Html.DisplayFor(modelItem => item.loai.IDLoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IDNguoiTao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayTao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayDuyet)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.View)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IDNguoiDuyet)
+            </td>
+           
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IDBlog">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IDBlog">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IDBlog">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

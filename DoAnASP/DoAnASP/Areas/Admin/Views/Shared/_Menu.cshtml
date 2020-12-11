@@ -1,0 +1,45 @@
+﻿<div class="sidebar-menu sticky-sidebar-menu">
+    <div class="logo">
+        <h1><a href="index.html">ADMIN</a></h1>
+    </div>
+    <div class="logo-icon text-center">
+        <a href="index.html" title="logo"><img src="~/Admin/images/logo.png" alt="logo-icon"> </a>
+    </div>
+    <div class="sidebar-menu-inner">
+
+        <!-- sidebar nav start -->
+        <ul class="nav nav-pills nav-stacked custom-nav">
+            <li class="active">
+                <a asp-controller="Home" asp-action="Index">
+                    <i class="fa fa-tachometer"></i>
+                    <p> Home</p>
+                </a>
+            </li>
+            <li class="">
+                <a asp-action="Index" asp-controller="TaiKhoans">
+                    <i class="fa fa-table"></i>
+                    <p>Tai Khoan</p>
+                </a>
+            </li>
+            <li class="">
+                <a asp-action="Index" asp-controller="Blogs">
+                    <i class="fa fa-table"></i>
+                    <p>Bài Viết</p>
+                </a>
+            </li>
+            <li>
+                <a asp-action="Index" asp-controller="CauHois">
+                    <i class="fa fa-file-text"></i>
+                    <p>Câu Hỏi</p>
+                </a>
+            </li>
+        </ul>
+        <!-- //sidebar nav end -->
+        <!-- toggle button start -->
+        <a class="toggle-btn">
+            <i class="fa fa-angle-double-left menu-collapsed__left"><span>Collapse Sidebar</span></i>
+            <i class="fa fa-angle-double-right menu-collapsed__right"></i>
+        </a>
+        <!-- //toggle button end -->
+    </div>
+</div>
